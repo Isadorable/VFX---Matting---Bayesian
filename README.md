@@ -8,5 +8,7 @@ The runtime varies according to the size of the unknown area.
 
 Example:
 
+![Alt text](flower.png?raw=true "Title")
+
 Sample Images: http://www.alphamatting.com/
 
